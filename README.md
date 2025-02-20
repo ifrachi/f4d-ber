@@ -49,7 +49,7 @@ MIT License
 
 ## References
 
-![Logo](https://github.com/contiki-ng/contiki-ng.github.io/blob/master/images/logo/Contiki_logo_2RGB.png)
+![Logo](https://raw.githubusercontent.com/contiki-ng/contiki-ng.github.io/master/images/logo/Contiki_logo_1RGB.png)
 
 **Contiki-NG: The OS for Next Generation IoT Devices**
 Contiki-NG is an open-source OS for IoT devices, focusing on secure, reliable low-power communication with standards like IPv6/6LoWPAN, 6TiSCH, RPL, and CoAP.
